@@ -1,4 +1,4 @@
-<?php require_once('Connections/Data.php'); ?>
+<?php require_once('auth.php'); ?>
 <?php
 if (!function_exists("GetSQLValueString")) {
 function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDefinedValue = "") 
@@ -31,7 +31,7 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
 }
 
 $string		= ".";
-    $maxlength	= 400;
+    $maxlength	= 400; // sets a maximum number of words to render
     $extension	= " ...";
     
     function truncate_string ($string, $maxlength, $extension) {
