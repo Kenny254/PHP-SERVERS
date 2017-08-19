@@ -51,14 +51,6 @@
            $seventh = explode(',', $string)[6];
            $sita= "realcms" . "/" .  "projects/ " . $seventh;
 
-
-           
-           
-           
-           
-           
-           
-  
            ?> 
            
            
