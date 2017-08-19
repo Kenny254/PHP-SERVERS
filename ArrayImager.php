@@ -1,7 +1,7 @@
   <?php
   
   /* This code was written by Ken Ronoh to 
-  buffer from mysql comma separated arrays and truncate xters*/
+  fetch from mysql comma separated arrays and truncate xters*/
   
   
  // First image buffer
