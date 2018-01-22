@@ -1,0 +1,4 @@
+ <p class="mbr-text mbr-fonts-style display-7">
+                           <?php echo substr($row_ac_blog['body'], 0, 128) . '..';?>
+                        </p>
+                    </div>
