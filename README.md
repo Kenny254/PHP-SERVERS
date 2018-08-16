@@ -1,2 +1,2 @@
 # POST-PROCESSORS
-This contains Php working scripts ,I have tested . This script buffer data from mysql database.
+These are some of the most used programs for PHP post processing of db using php MYSQL. 
