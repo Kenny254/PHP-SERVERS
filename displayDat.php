@@ -1,4 +1,4 @@
- <?php require_once('auth.php');   include ('buffer.php');?>
+ <?php require_once('auth.php');   include ('displayData.php');?>
  
  
  
